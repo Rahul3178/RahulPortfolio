@@ -1,0 +1,19 @@
+#taskCompleted{
+    background-color:red;
+    
+}
+#taskCompleted p{
+    text-decoration: line-through;
+   
+}
+
+#taskNotCompleted{
+    background-color:  #f3f0ff;
+    
+}
+
+input{
+   border:none;
+background-color: transparent;
+}
+

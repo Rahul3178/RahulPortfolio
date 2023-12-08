@@ -1,0 +1,13 @@
+#SkillBorder{
+    border:2px solid none;
+    border-left: 5px solid red;
+    /* border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px; */
+   
+}
+
+#userborder{
+    border: 3px solid black;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
