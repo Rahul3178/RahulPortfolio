@@ -19,11 +19,7 @@ const SkillWidgets = () => {
                 <li>Tailwind CSS</li>
                 <li>GIT</li>
                 <li>Maven</li>
-                <li>Selenium Java</li>
-                <li>Cucumber</li>
-                <li>SOAP API</li>
-                <li>REST API</li>
-                <li>REST Assured API</li>
+                
                 
               </ul>
             </div>

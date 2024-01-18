@@ -6,6 +6,7 @@ import SkillsComponent from "./SkillsComponent";
 import FooterComponent from "./FooterComponent";
 import ProjectsComponent from "./ProjectsComponent";
 import SkillWidgets from "./SkillWidgets";
+import TodoDashboard from "./todoComponent/TodoDashboard";
 const HomeContainerComponent = () => {
   return (
     <div className="container-fluid border ">
@@ -33,7 +34,7 @@ const HomeContainerComponent = () => {
           </div>
         </section>
         <section className="mb-3" id="todos">
-          <TodoContainer />
+          <TodoDashboard />
         </section>
         <section className="container-fluid mb-3 border rounded-3" id="contacts">
          {/* <SkillWidgets/> */}

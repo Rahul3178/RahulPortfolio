@@ -24,7 +24,7 @@ const taskSlicer=createSlice({
                 task:action.payload,
                 completed:false,
             }
-            state.tasks.push(task);
+             state.tasks.push(task);
         },
         removeTask:(state,action)=>{
             state.tasks=state.tasks.filter((task)=>task.id!==action.payload)

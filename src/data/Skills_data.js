@@ -99,7 +99,7 @@ const userSkills=[
         "id": "13",
         "skillCertificate": "",
         "skillLogo": "",
-        "skillName": "SELENIUM",
+        "skillName": "",
         "bgColor":"",
         "properties":""
     },

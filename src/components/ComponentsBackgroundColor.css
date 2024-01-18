@@ -1,11 +1,13 @@
 #taskCompleted{
-    background-color:red;
-    
+    background-color:lightgreen;
+    color: black;
+    text-decoration: line-through;
+    font-weight: bold;
 }
-#taskCompleted p{
+/* #taskCompletedColor{
     text-decoration: line-through;
    
-}
+} */
 
 #taskNotCompleted{
     background-color:  #f3f0ff;
